@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Cristian Guedes 👋
 
-<!--
-**cristianzasso/cristianzasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cientista de dados em São Paulo, com experiência no setor farmacêutico,
+e-commerce automotivo e food service. Transformo dados em decisões:
+de pipelines em SQL e Databricks a modelos preditivos e dashboards.
 
-Here are some ideas to get you started:
+## 🛠️ Stack
+Python · SQL · Databricks · Power BI · Power Platform · AWS Redshift · PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos
+- **[Preços de medicamentos no Brasil](link)** — análise e modelagem com dados abertos da CMED/ANVISA *(em construção)*
+
+## 📫 Contato
+[LinkedIn](seu-link) · seu-email
