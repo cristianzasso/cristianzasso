@@ -10,6 +10,7 @@ Python · SQL · Databricks · Power BI · Power Platform · AWS Redshift · Pos
 ## 📂 Projetos
 - **[Preços de medicamentos no Brasil](https://github.com/cristianzasso/precos-medicamentos-cmed)** — análise, clustering e detecção de anomalias com dados da CMED/ANVISA
 - **[Impacto da pandemia nas vendas de antibióticos](https://github.com/cristianzasso/previsao-vendas-antibioticos)** — séries temporais e cenário contrafactual com 8 anos de dados do SNGPC
+- **[Insatisfação de clientes em avaliações](https://github.com/cristianzasso/analise-avaliacoes-ecommerce)** — NLP em português, TF-IDF e classificação com ROC AUC de 0,966
 
 ## 📫 Contato
 [LinkedIn](seu-link) · cristiansgdc@gmail.com
