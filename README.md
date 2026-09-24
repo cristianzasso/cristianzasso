@@ -13,4 +13,4 @@ Python · SQL · Databricks · Power BI · Power Platform · AWS Redshift · Pos
 - **[Insatisfação de clientes em avaliações](https://github.com/cristianzasso/analise-avaliacoes-ecommerce)** — NLP em português, TF-IDF e classificação com ROC AUC de 0,966
 
 ## 📫 Contato
-[LinkedIn](seu-link) · cristiansgdc@gmail.com
+[LinkedIn](https://www.linkedin.com/in/cristiangds) · cristiansgdc@gmail.com
