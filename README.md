@@ -12,4 +12,4 @@ Python · SQL · Databricks · Power BI · Power Platform · AWS Redshift · Pos
 - **[Impacto da pandemia nas vendas de antibióticos](https://github.com/cristianzasso/previsao-vendas-antibioticos)** — séries temporais e cenário contrafactual com 8 anos de dados do SNGPC
 
 ## 📫 Contato
-[LinkedIn](seu-link) · seu-email
+[LinkedIn](seu-link) · cristiansgdc@gmail.com
