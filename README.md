@@ -8,7 +8,8 @@ de pipelines em SQL e Databricks a modelos preditivos e dashboards.
 Python · SQL · Databricks · Power BI · Power Platform · AWS Redshift · PostgreSQL
 
 ## 📂 Projetos
-- **[Preços de medicamentos no Brasil](https://github.com/cristianzasso/precos-medicamentos-cmed)** — análise e modelagem com dados abertos da CMED/ANVISA *(em construção)*
+- **[Preços de medicamentos no Brasil](https://github.com/cristianzasso/precos-medicamentos-cmed)** — análise, clustering e detecção de anomalias com dados da CMED/ANVISA
+- **[Impacto da pandemia nas vendas de antibióticos](https://github.com/cristianzasso/previsao-vendas-antibioticos)** — séries temporais e cenário contrafactual com 8 anos de dados do SNGPC
 
 ## 📫 Contato
 [LinkedIn](seu-link) · seu-email
